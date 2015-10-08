@@ -1,1 +1,1 @@
-# ES-predavanja
+# Elasticsearch Intro
